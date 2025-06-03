@@ -1,14 +1,14 @@
-## Hi there 👋
+## Welcome to Moofworks, where we work dilligently on the moof.
 
-Welcome to Moofworks, where we work dilligently on the moof.
-
-What is moof?
+What is a [moof](https://en.wiktionary.org/wiki/moof)?
 
 * A cow says "Moo"
 * A dogs says "Woof"
 * A dogcow says "Moof"
 
 ![dogcow](dogcow.png)
+
+
 
 <!--
 
