@@ -8,7 +8,7 @@ What is moof?
 * A dogs says "Woof"
 * A dogcow says "Moof"
 
-![dogcow](images/dogcow.png)
+![dogcow](dogcow.png)
 
 <!--
 
